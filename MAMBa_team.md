@@ -66,6 +66,8 @@ OC: `Linux Ubuntu Jammy Jellyfish (development branch) 22.04`.
 **Общий вид страницы:**
 ![image](https://user-images.githubusercontent.com/73134510/160290213-dc09a83a-a624-4551-848a-e6a5880b0782.png)
 ![image](https://user-images.githubusercontent.com/73134510/160290677-cc3cc455-bb01-437b-bc3e-07ad08b5c2fb.png)
+![image](https://user-images.githubusercontent.com/73134510/160297829-4fd34da8-0613-4801-8d38-d4db90241fc0.png)
+
 
 
 # Навбар
@@ -88,4 +90,20 @@ OC: `Linux Ubuntu Jammy Jellyfish (development branch) 22.04`.
 ![image](https://user-images.githubusercontent.com/73134510/160297700-7b1925e6-2a79-413c-89c8-91428126c989.png)
 ![image](https://user-images.githubusercontent.com/73134510/160297744-3d365bfc-378b-4eb6-a3dc-f8cbc3fb4412.png)
 
+
+
+# Футер
+### URL
+Футер располагается на всех страницах веб-приложения
+
+### Тесты
+1. При отсутствии контента (например, при пустом поисковом запросе) футер прижимается к нижней части экрана
+2. Все иконки при наведении подсвечиваются белым цветом
+3. При нажатии на иконку `VK` осуществляется переход по адресу https://vk.com/vkjunior
+4. При нажатии на иконку `Instagran` осуществляется переход по адресу https://www.instagram.com/bmstu1830
+5. При нажатии на телеграмм теги осуществляется переход на соответствующие телеграмм-страницы
+
+**Общий вид компонента:**
+![image](https://user-images.githubusercontent.com/73134510/160298030-e538a1dc-7f97-45f7-978e-77a5ce622843.png)
+![image](https://user-images.githubusercontent.com/73134510/160298038-8590bb71-30c8-4a80-8c26-b81b9ca12560.png)
 
